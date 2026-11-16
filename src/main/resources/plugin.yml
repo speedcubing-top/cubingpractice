@@ -1,5 +1,5 @@
 name: OceanPractice
-version: 1.0
+version: '${build.date}'
 main: lol.oce.marine.Practice
 depend:
   - TitleAPI
